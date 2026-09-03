@@ -1,0 +1,20 @@
+{
+  "Connecticut DRS myconneCT": {
+    "domain": "drs.ct.gov",
+    "url": "https://drs.ct.gov/eservices/",
+    "img": "drs.ct.gov.png",
+    "tfa": [
+      "sms",
+      "email",
+      "totp",
+      "u2f"
+    ],
+    "documentation": "https://portal.ct.gov/drs/myconnect/myconnect-2/faq",
+    "categories": [
+      "government"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}
